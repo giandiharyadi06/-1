@@ -1,1 +1,0 @@
-#include "core/factions/factions_pinkytiger/pinkytiger_functions"

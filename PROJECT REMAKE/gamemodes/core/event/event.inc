@@ -1,7 +1,0 @@
-#include "core/event/xmas"
-#include "core/event/ooc"
-//#include "core/event/halloween"
-//#include "core/event/bangunan"
-//#include "core/event/pilkada"
-//#include "core/event/ramadhan"
-//#include "core/event/carnaval"
